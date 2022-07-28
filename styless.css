@@ -12,6 +12,7 @@ body{
     
 
 }
+/* header  */
 #home .carousel-item img{
     height: 100vh;    
 }
@@ -26,7 +27,7 @@ body{
       align-items: center;
       justify-content: center;
 }
-
+/* footer  */
 footer a{
     color: white;
     text-decoration: none;
